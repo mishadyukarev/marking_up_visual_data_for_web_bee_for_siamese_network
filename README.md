@@ -20,6 +20,7 @@ image1.jpg | image0_crop2.jpg | 1
 6. First stage is cropping images.
 7. Second stage is marking up images with 1 or 0.
 8. Don't take more than 10 pictures with advertising.
+9. Please, record video during marking up data.
 
 ## Launching
 ```
