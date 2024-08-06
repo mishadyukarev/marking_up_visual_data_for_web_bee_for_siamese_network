@@ -5,10 +5,10 @@ street_image_name,crop_name,target
 
 
 ```
-image_name | crop_name        | target
-image0.jpg | image0_crop0.jpg | 1
-image0.jpg | image1_crop1.jpg | 0
-image1.jpg | image0_crop2.jpg | 1
+street_image_name | crop_name        | target
+image0.jpg        | image0_crop0.jpg | 1
+image0.jpg        | image1_crop1.jpg | 0
+image1.jpg        | image0_crop2.jpg | 1
 ```
 
 ## Notes
